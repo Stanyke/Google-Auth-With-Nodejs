@@ -2,6 +2,7 @@
 
 This is a web application that can be used to call/get users data in a json format with their permission from their Google account with the help of Google's API **People API**.
 
+- To start the server run **node index.js**, also we're running on **localhost:3000**.
 
 **Steps to implement Google authentication**
 
